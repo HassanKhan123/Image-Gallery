@@ -1,0 +1,26 @@
+.main{
+    width:50%;
+    max-width:700px;
+    min-width:400px;
+    height:400px;
+    margin: auto;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    opacity: 0.8;
+}
+
+img{
+    border:10px solid orange;
+    padding: 5px;
+    margin: auto;
+    width:24%;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
